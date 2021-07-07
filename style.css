@@ -13,7 +13,7 @@ nav{
     position: fixed;
     background-color: #ffffff;
     width: 100%;
-    /* box-shadow: 0px 1px 10px; */
+    box-shadow: 0px 1px 10px rgb(206, 206, 206);
     font-family: 'Big Shoulders Display', cursive;
 }
 nav .bottom{
@@ -29,7 +29,7 @@ nav .bottom{
     box-shadow: 2px 2px 0px black;
     font-family: 'Big Shoulders Display', cursive;
     margin-top: 5px;
-    font-size: 20px;
+    font-size: 22px;
     text-decoration: none;
     margin-top: 7px;
 }
@@ -61,14 +61,14 @@ nav li a:hover{
 
 #sop header{
     display: flex;
-    padding: 0 100px;
+    padding: 0 90px;
 }
 
 main h1{
     font-family: 'Big Shoulders Display', cursive;
     font-size: 150px;
     text-shadow: 3px 3px 1px black;
-    margin-right: 55px;
+    margin-right: 66px;
     
 }
 main span{
@@ -109,11 +109,19 @@ main .descricao{
     width: 50%;
 
 }
-.container .item p{
+.container .item .textinho{
     width: 50%;
     z-index: 1000;
     color: white;
     font-family: 'Space Mono', monospace;
+    text-align: left;
+    margin-right: 30px;
+}
+.container .item h4{
+    color: white;
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 60px;
+    text-align: left;
 }
 
 

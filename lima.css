@@ -3,3 +3,75 @@
     margin: 0;
     box-sizing: 0;
 }
+#lima aside{
+    display: flex;
+    padding: 0 90px;
+}
+aside h3, h4{
+    font-family: 'Space Mono', monospace;
+    color: rgb(255, 200, 0);
+    font-size: 25px;
+    font-weight: lighter;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+aside p{
+    font-family: 'Space Mono', monospace;
+    color: white;
+    font-size: 15px;
+    width: 400px;
+    font-weight: lighter;
+    margin-left: 20px;
+}
+.parteLima{
+    display: flex;
+}
+.conjunto{
+    display: flex;
+    flex-direction: column;
+    width: 460px;
+    height: 500px;
+    margin-right: 50px;
+    margin-top: 47px;
+    /* background-color: rgb(47, 0, 255);
+    box-shadow: 8px 8px 1px black; */
+}
+.conjunto1{
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    width: 460px;
+    margin-top: 39px;
+    /* background-color: rgb(255, 200, 0);
+    box-shadow: 8px 8px 1px black; */
+}
+.conjunto1 h4{
+    color:rgb(47, 0, 255);
+}
+.conjunto img{
+    margin-top: 67px;
+}
+.conjunto1 img{
+    margin-top: 30px;
+}
+aside img{
+    width: 400px;
+    height: 200px;
+    margin-left: 20px;
+}
+.linha4{
+    position: absolute;
+    width: 0px;
+    height: 547px;
+    left: 335px;
+    top: 2080px;
+    border: 1px solid rgb(255, 200, 0);
+}
+.linha5{
+    position: absolute;
+    width: 0px;
+    height: 547px;
+    left: 840px;
+    top: 2080px;
+    border: 1px solid rgb(47, 0, 255);
+}

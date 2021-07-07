@@ -41,3 +41,9 @@
     margin-top: 40px;
     z-index: -1;
 }
+#home a img{
+    float: right;
+    width: 109px;
+    height: 35px;
+    z-index: -1;
+}

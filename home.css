@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+#home h1{
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 125px;
+    width: 700px;
+    text-align: right;
+    color:  rgb(255, 200, 0);
+    
+}
+#home p{
+    font-family: 'Space Mono', monospace;
+    font-size: 13px;
+    text-align: right;
+    color: rgb(27, 46, 53);
+}
+.conteudo{
+    display: table-cell;
+    float: left;
+    width: 700px;
+    margin-top: 30px;
+}
+#home{
+    display: table;
+    /* background-image: url(img/4709729.jpg);
+    background-blend-mode: darken;
+    background-size: cover;
+    background-position: right top; 
+    display: flex;
+    flex-direction: column; */
+}
+#home img{
+    display: table-cell;
+    float: left;
+    width: 40%;
+    height: 40%;
+    margin-left: 50px;
+    margin-top: 40px;
+    z-index: -1;
+}

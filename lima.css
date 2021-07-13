@@ -35,6 +35,7 @@ aside p{
     margin-top: 47px;
     /* background-color: rgb(47, 0, 255);
     box-shadow: 8px 8px 1px black; */
+    border-left: 2px solid rgb(255, 200, 0);
 }
 .conjunto1{
     display: flex;
@@ -44,6 +45,7 @@ aside p{
     margin-top: 39px;
     /* background-color: rgb(255, 200, 0);
     box-shadow: 8px 8px 1px black; */
+    border-left: 2px solid rgb(47, 0, 255);
 }
 .conjunto1 h4{
     color:rgb(47, 0, 255);
@@ -58,20 +60,4 @@ aside img{
     width: 400px;
     height: 200px;
     margin-left: 20px;
-}
-.linha4{
-    position: absolute;
-    width: 0px;
-    height: 547px;
-    left: 335px;
-    top: 2080px;
-    border: 1px solid rgb(255, 200, 0);
-}
-.linha5{
-    position: absolute;
-    width: 0px;
-    height: 547px;
-    left: 840px;
-    top: 2080px;
-    border: 1px solid rgb(47, 0, 255);
 }

@@ -40,47 +40,19 @@ footer p{
 }
 .teste{
     display: flex;
-    margin-bottom: 70px;
+    margin-left: 25px;
+    
 }
 .teste1{
     display: flex;
+    margin-left: 25px;
 }
-
-.linha6{
-    position: absolute;
-    width: 0px;
-    height: 215px;
-    /* left: 1255px; */
-    left: 320px;
-    top: 2770px;
-    border: 1px solid rgb(255, 200, 0);
+.linha90{
+    border-left: 2px solid rgb(255, 200, 0);
+    margin-bottom: 50px;
 }
-.linha7{
-    position: absolute;
-    width: 925px;
-    height: 0px;
-    left: 330px;
-    top: 2995px;
-    border: 1px solid rgb(255, 200, 0);
-}
-.linha8{
-    position: absolute;
-    width: 0px;
-    height: 215px;
-    /* left: 1255px; */
-    left: 320px;
-    /* top: 2780px; */
-    top: 3030px;
-    border: 1px solid rgb(255, 200, 0);
-}
-.linha9{
-    position: absolute;
-    width: 925px;
-    height: 0px;
-    left: 330px;
-    /* top: 2778px; */
-    top: 3245px;
-    border: 1px solid rgb(255, 200, 0);
+.linha91{
+    border-left: 2px solid rgb(255, 200, 0);
 }
 .final{
     background-color: rgb(27, 46, 53);

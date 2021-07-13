@@ -20,6 +20,9 @@
     /* background-color: rgb(47, 0, 255);
     box-shadow: 5px 5px 1px rgb(134, 134, 134); */
     margin-top: 40px;
+    border-top: 2px solid rgb(255, 200, 0);
+    /* border-bottom: 1px solid rgb(255, 200, 0); */
+    padding: 10px 0;
 }
 .textConjut{
     display: flex;
@@ -50,38 +53,6 @@
     font-family: 'Space Mono', monospace;
     font-size: 20px;
 
-}
-.linha{
-    position: absolute;
-    width: 950px;
-    height: 0px;
-    left: 330px;
-    top: 1430px;
-    border: 1px solid rgb(255, 200, 0);
-}
-.linha1{
-    position: absolute;
-    width: 950px;
-    height: 0px;
-    left: 330px;
-    top: 1585px;
-    border: 1px solid rgb(255, 200, 0);
-}
-.linha2{
-    position: absolute;
-    width: 950px;
-    height: 0px;
-    left: 330px;
-    top: 1745px;
-    border: 1px solid rgb(255, 200, 0);
-}
-.linha3{
-    position: absolute;
-    width: 950px;
-    height: 0px;
-    left: 330px;
-    top: 1900px;
-    border: 1px solid rgb(255, 200, 0);
 }
 #hare article{
     display: flex;
